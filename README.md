@@ -6,6 +6,8 @@ This mod adds it back in with a few tweaks to allow waypoints back in the way th
 
 ![image](https://github.com/d3kryption/narrative_3.5_waypoints_mod/assets/48034534/8bb00dc6-1b44-4de5-a525-a8a5b3d1f6c2)
 
+Any issues please join the Reubs discord :)
+
 
 ## Prerequisites
 If you are using Narrative 3.5, you must have some form of HUD. I have designed this mod to work in the same way as the old waypoint system did.
