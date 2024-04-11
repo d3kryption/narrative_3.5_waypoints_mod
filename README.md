@@ -10,6 +10,8 @@ This mod adds it back in with a few tweaks to allow waypoints back in the way th
 ## Prerequisites
 If you are using Narrative 3.5, you must have some form of HUD. I have designed this mod to work in the same way as the old waypoint system did.
 
+Narrative 3.5. You must own the plugin. If you own Narrative 3.4 you do not need this mod.
+
 ## Install
 1) Download this NarrativeUI folder and import it into the root of your project `/Content/`. After it's imported into Unreal you can move it inside Unreal anywhere you want.
 2) Open your HUD and add in the `WBP_Waypoints` widget. (I put mine near the top so it's hidden behind other widgets)
