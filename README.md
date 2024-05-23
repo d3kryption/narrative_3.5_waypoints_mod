@@ -15,6 +15,8 @@ If you are using Narrative 3.5, you must have some form of HUD. I have designed 
 Narrative 3.5. You must own the plugin. If you own Narrative 3.4 you do not need this mod.
 
 ## Install
+You can follow the instructions below or use this [video](https://youtu.be/WCWV9t9v4BA) here:
+
 1) Download this repo and find the folder you need for your engine. Rename this to `NarrativeUI` (*IMPORTANT*).
 2) **Copy and paste** it into the root of your project `/Content/` using your file explorer (not Unreal). After it's imported into Unreal you can move it inside Unreal anywhere you want.
 3) Open your HUD and add in the `WBP_Waypoints` widget. (I put mine near the top so it's hidden behind other widgets)
